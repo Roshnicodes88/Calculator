@@ -1,0 +1,21 @@
+#answerstyle{
+    width: 262px;
+}
+.formstyle{
+    width:270px;
+    height:400px;
+    margin: auto;
+    border: 2px solid black;
+}
+input{
+    width: 86px;
+    height: 40px;
+    font-size: larger;
+    background:rgb(78, 111, 138);
+    color:black;
+}
+
+#clear{
+ 
+    width: 265px;
+}
